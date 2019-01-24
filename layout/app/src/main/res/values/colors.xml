@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#63b2ed</color>
+    <color name="colorPrimaryDark">#111111</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="selection">#BCDEF6</color>
+    <color name="tab_letter_not_selected">#85C3F1</color>
+    <color name="tab_letter_selected">#5BAEEC</color>
+    <color name="x_color">#C7D2D9</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="bullet">#E1E8ED</color>
+    <color name="view_related_color">#3E88C0</color>
+    <color name="gap">#F6F9FB</color>
+    <color name="handle">#A7B3BC</color>
+</resources>
